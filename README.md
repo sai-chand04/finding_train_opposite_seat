@@ -1,6 +1,6 @@
 # finding_train_opposite_seat
 Question:
-         Akash and vishal are quite found of travelling.They mostly travel by railways.they were travelling in a train one day and they got intrested in the sseating arrrangement of their compartment.the compartment looked something like
+         Akash and vishal are quite found of travelling.They mostly travel by railways.they were travelling in a train one day and they got intrested in the sseating arrrangement of their compartment.the compartment looked something like [the picture is in file named picture]
          
          
          
